@@ -82,6 +82,9 @@ body {
 html, body {
 	background: #CFD6D6;
 	overflow: hidden;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
 }
 #mainFrame {
 	width: 100%;
